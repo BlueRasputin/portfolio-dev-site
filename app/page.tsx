@@ -14,8 +14,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            Hello World! This is my portfolio site built with Next.js 13 and
-            Tailwind CSS.
+            Josh Barrett is my name and developing is my game. I wrote this code to show the world my skills are not lame. I love to code both night and day, so if you need a dev, just say hey!
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
